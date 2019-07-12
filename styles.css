@@ -93,8 +93,8 @@
   .para{
     color: black;
     margin-left: 0;
-    margin: 50px;
-    padding: 10px;
+    margin: 100px;
+    padding: 20px;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
