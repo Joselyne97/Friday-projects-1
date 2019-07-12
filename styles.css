@@ -120,8 +120,18 @@
     color: rgb(0,128,128);
     
   }
+  footer{
+    font-size: 100%;
+    color: rgb(47,79,79);
+    font-style: courier;
+    height: 350px;
+    width: 60%;
+    text-align: center;
+  }
   .wel {
-    color: rgb(139,69,19);
+    height: 100%;
+    width: 100%;`
+    color: black;
     margin-left: 100px;
     margin-right: 95px;
     padding: 50px;
@@ -129,6 +139,5 @@
     display: flex;
     flex-direction: column; 
     text-align: center;
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqjgSJMvLMqSHU6-iftQjGo-3XGJUMNcCv0yze1ZBNRmhnHBddw')
-    background-size: 700px; 
+    box-shadow: 0px 5px 5px black;
   }
