@@ -24,3 +24,8 @@
   .navon a:hover:not(.active){
     background-color: rgb(240,230,140);
   }
+  .images {
+        display: flex;
+        flex-direction:row;
+        background-color: white;
+  }
