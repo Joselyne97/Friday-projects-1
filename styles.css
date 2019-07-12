@@ -28,9 +28,10 @@
         display: flex;
         flex-direction:row;
         background-color: white;
+        height:cover;
   }
   .pic2 {
-    flex: 50%;
+    flex: 33.34%;
     padding: 5px;
     height:cover;
     display: flex;
@@ -38,5 +39,41 @@
   img{
     height: 100%;
     width: 100%;
+  }
+  .lafouine{
+    display: flex;
+  flex-direction:row;
+  background-color: white;
+  margin-right: 50px;
+  }
+  .pic {
+    flex: 25%;
+    padding: 5px;
+    height: cover;
+    display: flex;
+  }
+  .pic3{
+    flex: 25%;
+    padding: 5px;
+    height: cover;
+    display: flex;
+  }
+  .pic4{
+    flex: 25%;
+    padding: 5px;
+    height: cover;
+    display: flex;
+  }
+  .tal{
+    display: flex;
+  flex-direction:row;
+  background-color: white;
+  margin-right: 50px;  
+  }
+  .sindy {
+    display: flex;
+    flex-direction:row;
+    background-color: white;
+    margin-right: 50px;
   }
   
