@@ -96,6 +96,16 @@
  height: 400px;
  width: 400px;
   }
+  .description {
+    color: black;
+    margin-left: 100px;
+    margin-right: 95px;
+    padding: 50px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column; 
+    text-align: center;
+  }
   .contacts{
     height: 100%;
     width: 100%;`
@@ -109,4 +119,16 @@
     margin-right: 30px;
     color: rgb(0,128,128);
     
+  }
+  .wel {
+    color: rgb(139,69,19);
+    margin-left: 100px;
+    margin-right: 95px;
+    padding: 50px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column; 
+    text-align: center;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvqjgSJMvLMqSHU6-iftQjGo-3XGJUMNcCv0yze1ZBNRmhnHBddw')
+    background-size: 700px; 
   }
