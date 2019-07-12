@@ -29,3 +29,14 @@
         flex-direction:row;
         background-color: white;
   }
+  .pic2 {
+    flex: 50%;
+    padding: 5px;
+    height:cover;
+    display: flex;
+  }
+  img{
+    height: 100%;
+    width: 100%;
+  }
+  
