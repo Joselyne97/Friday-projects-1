@@ -10,6 +10,10 @@ Joselyne MPAYIMANA
 
 The project is independent, it has to be done by one person and it have to be submitted. In the project include the introduction of myself where I have described my education status, my hobbies, my contacts,my goals and my achievement!
 
+## The link to live site on GitHub Pages
+
+https://joselyne97.github.io/Friday-projects-1/
+
 ## Copyright and license information 
 
 &#9400; Made in July,2019
