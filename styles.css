@@ -76,4 +76,8 @@
     background-color: white;
     margin-right: 50px;
   }
+  *{
+    box-sizing: border-box;
+    background-color: rgb(192,192,192);
+  }
   
